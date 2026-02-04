@@ -17,9 +17,9 @@ const config = {
   // Messages shown in the "Love notes" typed panel.
   // Edit text here. Keep them short for nicer typing animation.
   messages: [
-    `I love you because you make every day brighter, kinder and more fun. — Love, Abhi`,
-    `My favorite memory is our rainy day walk — your laugh that day is still my favorite song.`,
-    `I promise to learn with you, laugh with you, and be there—every day.`
+    `I love you because you make every day brighter, kinder and more fun. You make everything magical. Also you are too fucking gorgeous!  — Love, Abhi`,
+    `My favorite memory is the time when i get to live with you and your family for diwali break .`,
+    `I promise to learn with you, laugh with you, and be there every day, no matter what happens, I'll become a better person for you, for us...`
   ],
 
 
@@ -250,3 +250,4 @@ document.querySelectorAll('.card').forEach(card => {
    END of script.js
 
    ------------------------- */
+
