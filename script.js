@@ -25,10 +25,10 @@ const config = {
 
   // Slideshow image filenames (must exist in images/). Add or remove filenames here.
   slides: [
-    "images/photo1.jpg",
-    "images/photo2.jpg",
-    "images/photo3.jpg"
-  ],
+  "photo1.jpg",
+  "photo2.jpg",
+  "photo3.jpg"
+],
 
 
   // Carousel autoplay interval (ms)
@@ -248,4 +248,5 @@ document.querySelectorAll('.card').forEach(card => {
 
 /* -------------------------
    END of script.js
+
    ------------------------- */
